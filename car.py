@@ -61,4 +61,7 @@ chart.add_series({
 
 worksheet.insert_chart('B1', chart)
 
-workbook.close() 
+workbook.close()
+
+print("calculations done!")
+#Done
